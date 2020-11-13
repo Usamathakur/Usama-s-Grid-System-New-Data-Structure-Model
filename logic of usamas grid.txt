@@ -1,0 +1,43 @@
+var a,b,i,j
+
+i = > 0
+
+j = < 0
+
+a = +,- n => 0 : n <= 0
+
+b= -,+ n => 0 : n <= 0
+
+if i/2 => n && j/2 <= n
+
+go right
+
+else 
+
+go down and search a/2 => n && b/2 >= n
+
+----------------------------------------------
+
+pick daignols of grid and search through (n) from (n,m) 4 way pointer.
+
+----------------------------------------------
+
+i is a index of (+,+)
+
+j is a index of (-,-)
+
+a is a index of (+,-)
+
+b is a index of (-,+
+
+----------------------------------------------
+
+search through all the indexes (n) with a given input in format (n,m).
+
+----------------------------------------------
+
+
+
+
+
+   
