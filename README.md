@@ -1,0 +1,2 @@
+# Usama-s-Grid-System-New-Data-Structure-Model
+I have imagined a structure that has every possible Integer value in it. A structure with the constraints (+N,+N), (-N,-N), (+N,-N), (-N,+N). I have some diagrams with me that might help understand it better. The main function of this structure is to find 2 numbers in Usama’s Grid and Square individually and Add them together to get a larger output with small input.
